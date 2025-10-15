@@ -1,5 +1,14 @@
 # Sleeper Fantasy App
 
+## Intro
+I don't know where this project is going but I'll find out. 
+Yes, this is mainly claude sonnet 4 generated. How else would I have the time to do this.
+
+## Todo:
+1. Learn the sleeper python API. Seems like it does a lot.
+2. Figure out wtf I'm doing here.
+3. Refactor this whole repo.
+
 ## Setup
 ```bash
 # Install uv if you haven't
