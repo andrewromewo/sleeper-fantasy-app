@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.uv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
